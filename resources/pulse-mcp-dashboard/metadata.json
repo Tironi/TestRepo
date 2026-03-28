@@ -1,0 +1,5 @@
+{
+  "name": "Pulse MCP Dashboard",
+  "description": "Interactive dashboard for monitoring MCP Servers using Pulse data.",
+  "requestFramePermissions": []
+}
